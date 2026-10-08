@@ -6,7 +6,6 @@ Final-year project (PFE).
 
 ## Demo
 
-[Watch the app demo](docs/demo.mp4)
 
 ## Features
 
