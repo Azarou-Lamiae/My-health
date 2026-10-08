@@ -7,6 +7,10 @@ Final-year project (PFE).
 ## Demo
 
 
+https://github.com/user-attachments/assets/4cb23fc4-4270-4d69-9f22-8b01d8b63801
+
+
+
 ## Features
 
 - **Authentication**: email/password sign-up and login, with the session persisted between launches
